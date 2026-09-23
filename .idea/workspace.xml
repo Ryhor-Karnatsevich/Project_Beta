@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15562815-fa7a-48cc-b593-9a4e0987bd68" name="Changes" comment="" />
+    <list default="true" id="0c04847d-e389-4ba6-96b0-91d41b09de43" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Project_beta.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project_beta.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -14,7 +22,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="3JjTggEhLpxOZugoWqEYXcKnUHa" />
+  <component name="ProjectId" id="3JjVhRZ7i13Cm4qOXbbjJyhNsT7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,6 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
@@ -41,16 +50,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="15562815-fa7a-48cc-b593-9a4e0987bd68" name="Changes" comment="" />
-      <created>1790173590894</created>
+      <changelist id="0c04847d-e389-4ba6-96b0-91d41b09de43" name="Changes" comment="" />
+      <created>1790174583058</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1790173590894</updated>
-      <workItem from="1790173591945" duration="1000" />
+      <updated>1790174583058</updated>
+      <workItem from="1790174584144" duration="4000" />
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
 </project>
